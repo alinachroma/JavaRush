@@ -24,13 +24,11 @@ public class Solution {
     			int mn = m*n;
     			System.out.print(mn + " ");
     		}
-    		
     		System.out.println();
     		}
-    	
     	}
     }
-}
+
 
 
 
