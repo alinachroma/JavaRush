@@ -14,21 +14,23 @@ public class Solution {
     
     public static void run() {
     	int m = 0;
+    	
     	while (m < 10) {
-    	  m++;
-    	  int n = 0; 
-    	  
-    	  while (n < 10) {
-    		n++;
-    		int mn = n*m;
-            System.out.print(mn + " ");
-    	   }	
-    	      System.out.println();
-       }
+    		m++;
+    		int n = 0;
+    		
+    		while (n < 10) {
+    			n++;
+    			int mn = m*n;
+    			System.out.print(mn + " ");
+    		}
+    		
+    		System.out.println();
+    		}
+    	
+    	}
     }
 }
-    	
-
 
 
 
