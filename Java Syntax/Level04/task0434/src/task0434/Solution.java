@@ -13,9 +13,7 @@ public class Solution {
     }
     
     public static void run() {
-    	
     	int m = 0;
-    	
     	while (m < 10) {
     	  m++;
     	  int n = 0; 
