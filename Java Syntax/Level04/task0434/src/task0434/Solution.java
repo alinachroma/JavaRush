@@ -2,7 +2,7 @@ package task0434;
 import java.io.*;
 
 /* 
-The multiplication table
+The multiplication table 10x10
 */
 
 
@@ -25,7 +25,6 @@ public class Solution {
     	   }	
     	      System.out.println();
        }
-    	
     }
 }
     	
