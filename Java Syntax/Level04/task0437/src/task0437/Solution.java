@@ -10,7 +10,7 @@ public class Solution {
     	
     	for (int x = 1; x < 10; x++) {
     		for (int y = 0; y < x; y = y + 1) {
-    			System.out.print(y);
+    			System.out.print('8');
     		}
     		System.out.println();
     	}
