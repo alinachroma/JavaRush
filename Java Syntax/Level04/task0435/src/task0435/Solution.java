@@ -1,7 +1,7 @@
 package task0435;
 
 /* 
-Even numbers (1 to 100)
+Even numbers (from the range from 1 to 100)
 */
 
 public class Solution {
